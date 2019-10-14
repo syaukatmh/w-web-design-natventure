@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700i&display=swap');
+
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.big-banner {
+  background: url("../course2/alam3.jpg");
+  height:500px;
+  background-size: cover;
+}
+
+.menu {
+  overflow: hidden;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.box {
+  width: 900px;
+  margin: auto;
+  padding: 0px;
+}
+
+.logowebb {
+  float: left;
+  overflow: hidden;
+  color: white;
+}
+.logo-nat {
+  padding: 5px 15px;
+  background-color: black;
+  border-radius: 20px;
+
+}
+
+.menukanan {
+  float: right;
+}
+
+.menukanan a {
+  padding: 20px;
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  font-weight:600;
+}
+
+.menukanan a:hover {
+  font-weight:100;
+  color: black;
+}
+
+.tulisan-tengah {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 100px;
+}
+
+.button-shop {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  background-color: black;
+  padding: 15px;
+  font-size: 15px;
+  border-color: black;
+  border-radius: 10px;
+}
+
+.button-shop:hover {
+  color: grey;
+}
+
+.konten1 {
+  margin-top: 50px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  overflow: hidden;
+}
+
+.kontentengah {
+  width: 300px;
+  margin: 0px;
+  margin: 0px;
+  float: left;
+  overflow: hidden;
+}
+
+.konten2 {
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  background-color: black;
+  color: white;
+  overflow: hidden;
+}
+
+.konten2cerita {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.col-400 {
+  width: 400px;
+  float: left;
+  overflow: hidden;
+}
+
+.col-500 {
+  width: 500px;
+  overflow: hidden;
+}
+
+.col-500 h3{
+  text-align: center;
+}
+
+.col-500 p{
+  padding: 10px;
+}
+
+.btncerita {
+  float: left;
+  overflow: hidden;
+  color:black;
+  padding: 5px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.konten3 {
+  font-family: 'Roboto', sans-serif;
+  overflow: hidden;
+  background: url("../course2/alam3.jpg");
+  height: 50px;
+  background-size: cover;
+}
